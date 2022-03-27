@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e16dd534-f775-b337-4ce5-2375677e28aa
 resourcetype: Document
 title: 'Day One: Getting Oriented'
 uid: 09af8ab1-53de-2472-b33c-001365986408
