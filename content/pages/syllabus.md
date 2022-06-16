@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, course texts, assignments, grading, attendance,
+  participation, late paper policy, and a statement on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +27,7 @@ It is easy to think of love as a "universal language" - but do ideas about love 
 Course Texts
 ------------
 
-Some of our readings for this course are now available online. Whenever our readings are not in book form, **please print them out** so that you can take good notes while you read and when we discuss them in class. To avoid unnecessary expense, I ask that you purchase only our longer texts, which are listed under [Readings]({{< baseurl >}}/pages/readings), or those for which the editor's notes are especially important.
+Some of our readings for this course are now available online. Whenever our readings are not in book form, **please print them out** so that you can take good notes while you read and when we discuss them in class. To avoid unnecessary expense, I ask that you purchase only our longer texts, which are listed under {{% resource_link e16dd534-f775-b337-4ce5-2375677e28aa "Readings" %}}, or those for which the editor's notes are especially important.
 
 Assignments and Grading
 -----------------------

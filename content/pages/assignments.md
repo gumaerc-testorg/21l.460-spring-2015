@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the assignments for the course, which consisted
+  of papers, quizzes, presentations, and an online forum open only to the students
+  enrolled in this class at MIT. The forum is not available to the public.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,7 +17,7 @@ First paper
 
 A relatively informal reflection on your experience as a student with reading Middle English, with reference to Chaucer's _Wife of Bath's Tale_. You'll be asked to think about a particular passage that challenged you and about what one gains and loses by translating Chaucer into Modern English. About 1000 words.
 
-*   [Additional instructions for paper 1 (PDF)]({{< baseurl >}}/resources/mit21l_460s15_paper1)
+*   {{% resource_link 20663e43-61c3-11d3-43e4-4f399dc83372 "Additional instructions for paper 1 (PDF)" %}}
 
 Second paper
 ------------
