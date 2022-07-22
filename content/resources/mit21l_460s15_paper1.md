@@ -5,6 +5,7 @@ file: /courses/21l-460-medieval-literature-love-sex-and-marriage-spring-2015/206
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: First Paper Assignment
 uid: 20663e43-61c3-11d3-43e4-4f399dc83372
 ---
 Writing assignment on Chaucer’s Wife of Bath’s Prologue/Tale.
-
