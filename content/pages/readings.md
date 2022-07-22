@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the required and suggested
+  readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e16dd534-f775-b337-4ce5-2375677e28aa
 ---
@@ -50,7 +55,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introductions; [Getting comfortable with Middle English (PDF)]({{< baseurl >}}/resources/mit21l_460s15_handout); some medieval songs about married life ("In praise of women," "Abuse of women")
+Introductions; {{% resource_link 09af8ab1-53de-2472-b33c-001365986408 "Getting comfortable with Middle English (PDF)" %}}; some medieval songs about married life ("In praise of women," "Abuse of women")
 {{< tdclose >}}
 {{< tdopen >}}
 
