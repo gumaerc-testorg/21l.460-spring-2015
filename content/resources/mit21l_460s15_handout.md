@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing an excerpt of Beowulf, a timeline of significant dates,
   and and excerpt from the Wycliffite Bible.
-file: /ol-ocw-studio-app/courses/21l-460-medieval-literature-love-sex-and-marriage-spring-2015/09af8ab153de2472b33c001365986408_MIT21L_460S15_Handout.pdf
+file: /courses/21l-460-medieval-literature-love-sex-and-marriage-spring-2015/09af8ab153de2472b33c001365986408_MIT21L_460S15_Handout.pdf
 file_size: 174858
 file_type: application/pdf
 learning_resource_types:
