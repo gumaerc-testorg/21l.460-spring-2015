@@ -26,9 +26,9 @@ Required Readings
 *   \[Pope\] = Pope, Marvin H. _Song of Songs_. Vol. 7. Yale University Press, 1995. ISBN: 9780300139495.
 *   \[Clairvaux\] = Leclercq, Jean, ed. _On the Song of Songs II, Sermons 21-46_. Vol. 2. Cistercian Publications, 1976. ISBN: 9780879077075.
 *   \[Bowie\] = Bowie, Fiona. _Beguine Spirituality: Mystical Writings of Mechthild of Magdeburg, Beatrice of Nazareth, and Hadewijch of Brabant_. Crossroad Publication Company, 1990. ISBN: 9780824509934.
-*   \[Levitan\] = Levitan, William. _Abelard & Heloise: The Letters and other Writings_. Hackett Publishing Company, Incorporation, 2007. ISBN: 9780872208759. \[Preview with [Google Books](http://books.google.com/books?id=REPM2edtbfsC&pg=PAfrontcover)\]
-*   \[Newman\] = Newman, Barbara. _From Virile Woman to WomanChrist: Studies in Medieval Religion and Literature_. University of Pennsylvania Press, 1995. ISBN: 9780812215458. \[Preview with [Google Books](http://books.google.com/books?id=A9c2a4u00bIC&pg=PAfrontcover)\]
-*   \[Georgianna\] = Georgianna, Linda. "[The Clerk's Tale and the Grammar of Assent](http://www.jstor.org/stable/2865344)." _Speculum_ 70, no. 4 (1995): 793–821.
+*   \[Levitan\] = Levitan, William. _Abelard & Heloise: The Letters and other Writings_. Hackett Publishing Company, Incorporation, 2007. ISBN: 9780872208759. \[Preview with {{% resource_link "c0d41f26-f1bc-40d9-be53-063cf598ad29" "Google Books" %}}\]
+*   \[Newman\] = Newman, Barbara. _From Virile Woman to WomanChrist: Studies in Medieval Religion and Literature_. University of Pennsylvania Press, 1995. ISBN: 9780812215458. \[Preview with {{% resource_link "10380a36-9bd5-4baa-9075-34cc622fb28f" "Google Books" %}}\]
+*   \[Georgianna\] = Georgianna, Linda. "{{% resource_link "abd656cd-7cf2-4579-86bc-24cb08d1902b" "The Clerk's Tale and the Grammar of Assent" %}}." _Speculum_ 70, no. 4 (1995): 793–821.
 *   \[Staley\] = Kempe, Margery. _The Book of Margery Kempe_. Edited by Lynn Staley. The Folio Society, 2004.
 *   \[Glasscoe\] = Glasscoe, Marion, ed. _Julian of Norwich: A Revelation of Love_. Liverpool University Press, 1993. ISBN: 9780859894203.
 *   \[Hahn\] = Hahn, Thomas, ed. _Sir Gawain: Eleven Romances and Tales_. Western Michigan University, 1995. ISBN: 9781879288591.
